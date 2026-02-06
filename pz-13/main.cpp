@@ -45,7 +45,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     HWND hWnd = CreateWindowExA(
         0,
         CLASS_NAME,
-        "Calculator with MathLib",
+        "naaa",
         WS_OVERLAPPEDWINDOW,
         CW_USEDEFAULT, CW_USEDEFAULT,
         600, 400,
@@ -76,9 +76,9 @@ LRESULT CALLBACK WindowProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
     switch (uMsg) {
         case WM_CREATE:
         {
-            CreateWindowA("STATIC", "X (double):", WS_VISIBLE | WS_CHILD | SS_RIGHT,
+            CreateWindowA("STATIC", "X:", WS_VISIBLE | WS_CHILD | SS_RIGHT,
                           20, 20, 100, 20, hWnd, nullptr, nullptr, nullptr);
-            CreateWindowA("STATIC", "Y (double для + - * /):", WS_VISIBLE | WS_CHILD | SS_RIGHT,
+            CreateWindowA("STATIC", "Y:", WS_VISIBLE | WS_CHILD | SS_RIGHT,
                           20, 60, 180, 20, hWnd, nullptr, nullptr, nullptr);
             CreateWindowA("STATIC", "Result:", WS_VISIBLE | WS_CHILD | SS_RIGHT,
                           20, 140, 100, 20, hWnd, nullptr, nullptr, nullptr);
