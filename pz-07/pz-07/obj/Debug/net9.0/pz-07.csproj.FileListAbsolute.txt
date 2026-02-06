@@ -1,0 +1,15 @@
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\bin\Debug\net9.0\pz-07.exe
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\bin\Debug\net9.0\pz-07.deps.json
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\bin\Debug\net9.0\pz-07.runtimeconfig.json
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\bin\Debug\net9.0\pz-07.dll
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\bin\Debug\net9.0\pz-07.pdb
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.AssemblyInfoInputs.cache
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.AssemblyInfo.cs
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.csproj.CoreCompileInputs.cache
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.sourcelink.json
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.dll
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\refint\pz-07.dll
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.pdb
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\pz-07.genruntimeconfig.cache
+C:\Users\bypro\Desktop\sp-01.04\pz-07\pz-07\obj\Debug\net9.0\ref\pz-07.dll
