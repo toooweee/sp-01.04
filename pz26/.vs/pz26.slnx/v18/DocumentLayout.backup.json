@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|c:\\users\\bypro\\desktop\\sp-01.04\\pz26\\pz26\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96726083-974D-48A1-8DF0-A29BDF4E2A66}|pz26\\pz26.csproj|solutionrelative:pz26\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "pz26\\Page3.xaml.cs",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page3.xaml.cs",
+              "RelativeToolTip": "pz26\\Page3.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:32:26.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "pz26\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page2.xaml.cs",
+              "RelativeToolTip": "pz26\\Page2.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:32:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "pz26\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page1.xaml.cs",
+              "RelativeToolTip": "pz26\\Page1.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:31:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "pz26\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\MainPage.xaml.cs",
+              "RelativeToolTip": "pz26\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T18:31:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page3.xaml",
+              "RelativeDocumentMoniker": "pz26\\Page3.xaml",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page3.xaml",
+              "RelativeToolTip": "pz26\\Page3.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-08T18:31:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page2.xaml",
+              "RelativeDocumentMoniker": "pz26\\Page2.xaml",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page2.xaml",
+              "RelativeToolTip": "pz26\\Page2.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-08T18:30:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page1.xaml",
+              "RelativeDocumentMoniker": "pz26\\Page1.xaml",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\Page1.xaml",
+              "RelativeToolTip": "pz26\\Page1.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-08T18:30:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\MainPage.xaml",
+              "RelativeDocumentMoniker": "pz26\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\bypro\\Desktop\\sp-01.04\\pz26\\pz26\\MainPage.xaml",
+              "RelativeToolTip": "pz26\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-08T18:29:56.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

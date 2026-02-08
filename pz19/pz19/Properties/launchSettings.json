@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "pz19": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

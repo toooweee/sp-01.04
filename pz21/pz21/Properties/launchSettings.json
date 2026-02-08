@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "pz21": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

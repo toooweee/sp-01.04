@@ -1,0 +1,15 @@
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\bin\Debug\net9.0\pz20.exe
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\bin\Debug\net9.0\pz20.deps.json
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\bin\Debug\net9.0\pz20.runtimeconfig.json
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\bin\Debug\net9.0\pz20.dll
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\bin\Debug\net9.0\pz20.pdb
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.AssemblyInfoInputs.cache
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.AssemblyInfo.cs
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.csproj.CoreCompileInputs.cache
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.sourcelink.json
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.dll
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\refint\pz20.dll
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.pdb
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\pz20.genruntimeconfig.cache
+C:\Users\bypro\Desktop\sp-01.04\pz20\pz20\obj\Debug\net9.0\ref\pz20.dll

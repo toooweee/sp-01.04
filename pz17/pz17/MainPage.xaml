@@ -9,6 +9,31 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <StackPanel x:Name="container" 
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Margin="0,50,0,0"
+                    Spacing="30">
 
+            <Button x:Name="button" 
+                    Content="Нажми меня" 
+                    Width="250" 
+                    Height="60" 
+                    FontSize="20"
+                    Click="on_click"/>
+
+            <Button Content="Обычная кнопка" 
+                    Width="250" 
+                    Height="60" 
+                    FontSize="20"/>
+
+            <Button Content="{x:Bind MyStudent}"
+                Width="300"
+                Height="60"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,250,0,0"/>
+
+        </StackPanel>
     </Grid>
 </Page>

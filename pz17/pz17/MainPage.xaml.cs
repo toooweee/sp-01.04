@@ -1,4 +1,5 @@
-﻿using Windows.UI.Xaml.Controls;
+﻿using Windows.UI.Xaml;
+using Windows.UI.Xaml.Controls;
 
 namespace pz17
 {
@@ -7,9 +8,23 @@ namespace pz17
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        public Student MyStudent { get; } = new Student();
+
         public MainPage()
         {
             InitializeComponent();
+
+            Button button = new Button();
+            button.Content = "из кода";
+            button.Height = 200;
+            button.Width = 600;
+
+            container.Children.Add(button);
+        }
+
+        private void on_click(object sender, RoutedEventArgs e)
+        {
+            button.Content = "Изменне";
         }
     }
 }
